@@ -1,4 +1,7 @@
-#Fri Apr 28 18:05:10 EDT 2017
-base.0=C\:\\Users\\Yuanfeng\\AndroidStudioProjects\\BlackJack-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
-renamed.0=classes.dex
-file.0=C\:\\Users\\Yuanfeng\\AndroidStudioProjects\\BlackJack-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+#Fri Apr 28 18:24:25 EDT 2017
+base.0=/Users/hongyuanqing/Documents/GitHub/android_project/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3d025f3ccd6ee46f7506e38266d1db144da560a2
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/hongyuanqing/Documents/GitHub/android_project/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f30bac627ba97e9cc56f94810f72bc1d68668b80/classes.dex
+base.1=/Users/hongyuanqing/Documents/GitHub/android_project/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f30bac627ba97e9cc56f94810f72bc1d68668b80
+file.0=/Users/hongyuanqing/Documents/GitHub/android_project/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3d025f3ccd6ee46f7506e38266d1db144da560a2/classes.dex

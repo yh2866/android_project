@@ -2,13 +2,22 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="C:\Users\Yuanfeng\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/hongyuanqing/Documents/GitHub/android_project/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="C:\Users\Yuanfeng\AndroidStudioProjects\BlackJack-master1 - Copy\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_e000bdabd0313e89d6c8780fa0dafcb55611354e.jar" />
+        sha1="9efe926e7608538b1c4922173a7ea8b2a1ef95de">
+        <dex dex="/Users/hongyuanqing/Documents/GitHub/android_project/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f30bac627ba97e9cc56f94810f72bc1d68668b80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hongyuanqing/Documents/GitHub/android_project/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/hongyuanqing/Documents/GitHub/android_project/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3d025f3ccd6ee46f7506e38266d1db144da560a2/classes.dex" />
     </item>
 
 </items>

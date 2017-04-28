@@ -1,10 +1,6 @@
 [
     {
-        "merged": "C:\\Users\\Yuanfeng\\AndroidStudioProjects\\BlackJack-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
-        "source": "C:\\Users\\Yuanfeng\\AndroidStudioProjects\\BlackJack-master1\\app\\src\\main\\res\\menu\\menu.xml"
-    },
-    {
-        "merged": "C:\\Users\\Yuanfeng\\AndroidStudioProjects\\BlackJack-master1 - Copy\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
-        "source": "C:\\Users\\Yuanfeng\\AndroidStudioProjects\\BlackJack-master1 - Copy\\app\\src\\main\\res\\menu\\menu.xml"
+        "merged": "/Users/hongyuanqing/Documents/GitHub/android_project/app/build/intermediates/res/merged/debug/menu/menu.xml",
+        "source": "/Users/hongyuanqing/Documents/GitHub/android_project/app/src/main/res/menu/menu.xml"
     }
 ]

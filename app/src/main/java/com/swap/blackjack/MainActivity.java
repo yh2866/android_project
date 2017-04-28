@@ -50,12 +50,14 @@ public class MainActivity extends Activity implements OnClickListener,
   private ImageSwitcher ivYourCard1, ivYourCard2, ivYourCard3, ivYourCard4, ivYourCard5;
   private ImageSwitcher ivSplitCard1, ivSplitCard2, ivSplitCard3, ivSplitCard4, ivSplitCard5;
   private Button btnPlaceBet;
-  private Button btnHit, btnStand, btnSurrender, btnChallenge;
+  private Button btnHit, btnStand, btnSurrender;
   private SeekBar sbBetAmount;
   static final String[] challengeString = new String[3];
   private MediaPlayer mp_background;
   private MediaPlayer mp_button;
   private Button music_btn;
+
+
 
 
   // SoundPool soundPool = new SoundPool(5, AudioManager.STREAM_MUSIC, 0);
@@ -347,12 +349,8 @@ public class MainActivity extends Activity implements OnClickListener,
 
     btnPlaceBet = (Button) findViewById(R.id.btnPlaceBet);
     btnPlaceBet.setOnClickListener(this);
-    Button btnExit = (Button) findViewById(R.id.btnExit);
-    btnExit.setOnClickListener(this);
     Button btnHelp = (Button) findViewById(R.id.btnHelp);
     btnHelp.setOnClickListener(this);
-    btnChallenge = (Button)findViewById(R.id.btnChallenge);
-    btnChallenge.setOnClickListener(this);
     
 
     sbBetAmount = (SeekBar) findViewById(R.id.sbBetAmount);
@@ -422,25 +420,13 @@ public class MainActivity extends Activity implements OnClickListener,
         resetEveryThing();
         break;
 
-      case R.id.btnExit:
-        savingHighScore();
-        finish();
-        break;
-
       case R.id.btnHelp:
         // Help here
 
         Intent intent = new Intent(MainActivity.this, Help.class);
         startActivity(intent);
         break;
-       
-      case R.id.btnChallenge:
-    	  Intent sendIntent = new Intent(Intent.ACTION_SEND);
-    	  sendIntent.setType("text/plain");
-    	  String message = challengeString[0] + " "+ _playerScore + " " + challengeString[1]
-    			  + " "+_highestScore+ ". " + challengeString[2]; 
-    	  sendIntent.putExtra(Intent.EXTRA_TEXT, message);
-    	  startActivity(sendIntent);
+
       default:
         break;
     }

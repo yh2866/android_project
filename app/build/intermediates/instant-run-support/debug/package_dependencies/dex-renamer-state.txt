@@ -1,0 +1,4 @@
+#Fri Apr 28 18:16:50 EDT 2017
+base.0=/Users/hongyuanqing/Documents/GitHub/android_project/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_4006f5b1e762b1391a740a26c4c045284945c073
+renamed.0=classes.dex
+file.0=/Users/hongyuanqing/Documents/GitHub/android_project/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_4006f5b1e762b1391a740a26c4c045284945c073/classes.dex

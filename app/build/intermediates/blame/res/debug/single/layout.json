@@ -1,26 +1,14 @@
 [
     {
-        "merged": "C:\\Users\\Yuanfeng\\AndroidStudioProjects\\BlackJack-master1 - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\Users\\Yuanfeng\\AndroidStudioProjects\\BlackJack-master1 - Copy\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "/Users/hongyuanqing/Documents/GitHub/android_project/app/build/intermediates/res/merged/debug/layout/set_background.xml",
+        "source": "/Users/hongyuanqing/Documents/GitHub/android_project/app/src/main/res/layout/set_background.xml"
     },
     {
-        "merged": "C:\\Users\\Yuanfeng\\AndroidStudioProjects\\BlackJack-master1 - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help.xml",
-        "source": "C:\\Users\\Yuanfeng\\AndroidStudioProjects\\BlackJack-master1 - Copy\\app\\src\\main\\res\\layout\\help.xml"
+        "merged": "/Users/hongyuanqing/Documents/GitHub/android_project/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/hongyuanqing/Documents/GitHub/android_project/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\Yuanfeng\\AndroidStudioProjects\\BlackJack-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\set_background.xml",
-        "source": "C:\\Users\\Yuanfeng\\AndroidStudioProjects\\BlackJack-master1\\app\\src\\main\\res\\layout\\set_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\Yuanfeng\\AndroidStudioProjects\\BlackJack-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\Users\\Yuanfeng\\AndroidStudioProjects\\BlackJack-master1\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\Yuanfeng\\AndroidStudioProjects\\BlackJack-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help.xml",
-        "source": "C:\\Users\\Yuanfeng\\AndroidStudioProjects\\BlackJack-master1\\app\\src\\main\\res\\layout\\help.xml"
-    },
-    {
-        "merged": "C:\\Users\\Yuanfeng\\AndroidStudioProjects\\BlackJack-master1 - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\set_background.xml",
-        "source": "C:\\Users\\Yuanfeng\\AndroidStudioProjects\\BlackJack-master1 - Copy\\app\\src\\main\\res\\layout\\set_background.xml"
+        "merged": "/Users/hongyuanqing/Documents/GitHub/android_project/app/build/intermediates/res/merged/debug/layout/help.xml",
+        "source": "/Users/hongyuanqing/Documents/GitHub/android_project/app/src/main/res/layout/help.xml"
     }
 ]

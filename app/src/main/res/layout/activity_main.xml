@@ -223,14 +223,6 @@
                 android:orientation="horizontal" >
 
                 <Button
-                    android:id="@+id/btnExit"
-                    style="?android:attr/buttonStyleSmall"
-                    android:layout_width="fill_parent"
-                    android:layout_height="fill_parent"
-                    android:layout_weight="50"
-                    android:text="Click to Exit" />
-
-                <Button
                     android:id="@+id/btnHelp"
                     style="?android:attr/buttonStyleSmall"
                     android:layout_width="fill_parent"
@@ -245,14 +237,7 @@
                 android:layout_height="wrap_content"
                 android:orientation="horizontal" 
                 android:gravity = "center">
-                
-                <Button
-                    android:id="@+id/btnChallenge"
-                    style="?android:attr/buttonStyleSmall"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="Challenge A Friend"/>
-                
+
             </LinearLayout>
 
           <LinearLayout
